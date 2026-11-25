@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "schema_version": 1,
+    "generated_at": "2026-11-25T23:49:29+08:00",
+    "generated_by": "ai-shop-price-fetch.py (local, zero-token)",
+    "check_date": "2026-11-25",
+    "currency": "CNY",
+    "note": "verified=本次抓到；unverified=本次未取到，沿用旧价与旧日期；out_of_stock=有价无货；not_sold=该店不卖此品类"
+  },
+  "shops": [
+    {
+      "id": "16688-s184592",
+      "name": "16688 · S184592",
+      "url": "https://www.16688.com.cn/shop/S184592",
+      "fee_note": "标价外平台另收约 2.8% 手续费",
+      "tiers": [
+        {
+          "id": "token-300b",
+          "kind": "token_topup",
+          "label": "词元充值 300亿",
+          "price_cny": 20.75,
+          "price_per_10b_cny": 0.69,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-10b",
+          "kind": "token_topup",
+          "label": "词元充值 10亿",
+          "price_cny": 0.82,
+          "price_per_10b_cny": 0.82,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-50b",
+          "kind": "token_topup",
+          "label": "词元充值 50亿",
+          "price_cny": 4.25,
+          "price_per_10b_cny": 0.85,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-100b",
+          "kind": "token_topup",
+          "label": "词元充值 100亿",
+          "price_cny": 8.5,
+          "price_per_10b_cny": 0.85,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-200b",
+          "kind": "token_topup",
+          "label": "词元充值 200亿",
+          "price_cny": null,
+          "price_per_10b_cny": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-23",
+          "note": "2026-11-25 店内搜 0 结果，未取到",
+          "status": "unverified"
+        },
+        {
+          "id": "finished-10b-plain",
+          "kind": "finished",
+          "label": "成品号 10亿 普号",
+          "price_cny": 1.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-1h",
+          "kind": "finished",
+          "label": "成品号 10亿 质保1H",
+          "price_cny": 1.5,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-2.97",
+          "kind": "finished",
+          "label": "成品号 10亿",
+          "price_cny": 2.97,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-3.12",
+          "kind": "finished",
+          "label": "成品号 10亿",
+          "price_cny": 3.12,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-3.25",
+          "kind": "finished",
+          "label": "成品号 10亿 质保24H",
+          "price_cny": 3.25,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-310b-min",
+          "kind": "finished",
+          "label": "成品号 310亿 在售最低",
+          "price_cny": 15.62,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-310b-31.25",
+          "kind": "finished",
+          "label": "成品号 310亿",
+          "price_cny": 31.25,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-cheapest",
+          "kind": "handmade",
+          "label": "精品手搓号",
+          "price_cny": 1.87,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-20b",
+          "kind": "handmade",
+          "label": "手搓号 20亿",
+          "price_cny": 4.95,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-10b",
+          "kind": "handmade",
+          "label": "手搓号 10亿",
+          "price_cny": 12.5,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-310b",
+          "kind": "handmade",
+          "label": "精品手搓号 310亿",
+          "price_cny": 21.75,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-310b-real",
+          "kind": "handmade",
+          "label": "真人手搓号 310亿",
+          "price_cny": 43.75,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "sub-power",
+          "kind": "subscription",
+          "label": "Power 订阅成品号 16刀月卡",
+          "price_cny": 62.5,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "sub-maximum",
+          "kind": "subscription",
+          "label": "Maximum 订阅成品号 80刀月卡",
+          "price_cny": 250.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "other-video",
+          "kind": "other_ai",
+          "label": "MUSE AI 视频生成 60秒 1个月",
+          "price_cny": 62.5,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "other-gemini-plus",
+          "kind": "other_ai",
+          "label": "Gemini Plus 6个月",
+          "price_cny": null,
+          "price_per_10b_cny": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-23",
+          "note": "2026-11-25 未复核，沿用 11-23：¥7.50–¥8.75",
+          "status": "unverified"
+        },
+        {
+          "id": "other-chatgpt-plus",
+          "kind": "other_ai",
+          "label": "ChatGPT Plus 20刀成品号",
+          "price_cny": 37.0,
+          "price_per_10b_cny": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-23",
+          "note": "2026-11-25 未复核，沿用 11-23 价",
+          "status": "unverified"
+        }
+      ]
+    },
+    {
+      "id": "suprsub",
+      "name": "suprsub",
+      "url": "https://suprsub.shop/muse-invite",
+      "fee_note": "另收支付宝 +1%、微信 +2% 手续费",
+      "tiers": [
+        {
+          "id": "token-1-4",
+          "kind": "token_topup",
+          "label": "词元充值 1–4份",
+          "price_cny": 1.5,
+          "price_per_10b_cny": 1.5,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-5-19",
+          "kind": "token_topup",
+          "label": "词元充值 5–19份",
+          "price_cny": 1.3,
+          "price_per_10b_cny": 1.3,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-20-30",
+          "kind": "token_topup",
+          "label": "词元充值 20–30份",
+          "price_cny": 1.2,
+          "price_per_10b_cny": 1.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b",
+          "kind": "finished",
+          "label": "成品号 10亿",
+          "price_cny": 6.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "gemini-plus-6m",
+          "kind": "other_ai",
+          "label": "Gemini Plus 6个月",
+          "price_cny": 8.0,
+          "price_per_10b_cny": null,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "note": "2026-11-25 缺货",
+          "status": "out_of_stock"
+        },
+        {
+          "id": "gemini-xiaomi-3m",
+          "kind": "other_ai",
+          "label": "Gemini AI Pro·Xiaomi 3个月 全自动直充",
+          "price_cny": 25.0,
+          "price_per_10b_cny": null,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "note": "2026-11-25 缺货",
+          "status": "out_of_stock"
+        },
+        {
+          "id": "gemini-bindcard",
+          "kind": "other_ai",
+          "label": "Gemini 需要绑卡",
+          "price_cny": 8.0,
+          "price_per_10b_cny": null,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "note": "2026-11-25 缺货",
+          "status": "out_of_stock"
+        },
+        {
+          "id": "other-video-apikey",
+          "kind": "other_ai",
+          "label": "AI 视频/图片生成 专属 API Key 200积分",
+          "price_cny": 5.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "gptibo",
+      "name": "GPTibo",
+      "url": "https://gptibo.shop/product/muse-token",
+      "tiers": [
+        {
+          "id": "token-10b",
+          "kind": "token_topup",
+          "label": "词元充值 10亿",
+          "price_cny": 3.2,
+          "price_per_10b_cny": 3.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-50b",
+          "kind": "token_topup",
+          "label": "词元充值 50亿",
+          "price_cny": 16.0,
+          "price_per_10b_cny": 3.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-100b",
+          "kind": "token_topup",
+          "label": "词元充值 100亿",
+          "price_cny": 32.0,
+          "price_per_10b_cny": 3.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-150b",
+          "kind": "token_topup",
+          "label": "词元充值 150亿",
+          "price_cny": 48.0,
+          "price_per_10b_cny": 3.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-200b",
+          "kind": "token_topup",
+          "label": "词元充值 200亿",
+          "price_cny": 64.0,
+          "price_per_10b_cny": 3.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "token-300b",
+          "kind": "token_topup",
+          "label": "词元充值 300亿",
+          "price_cny": 96.0,
+          "price_per_10b_cny": 3.2,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b",
+          "kind": "finished",
+          "label": "成品号 10亿",
+          "price_cny": 19.9,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-310b",
+          "kind": "finished",
+          "label": "成品号 310亿",
+          "price_cny": 119.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "chris",
+      "name": "Chris AI小铺",
+      "url": "https://shop.chrisai.xyz/",
+      "tiers": [
+        {
+          "id": "token-10b",
+          "kind": "token_topup",
+          "label": "词元充值 10亿",
+          "price_cny": null,
+          "price_per_10b_cny": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-23",
+          "note": "该店不卖词元充值",
+          "status": "not_sold"
+        },
+        {
+          "id": "finished-10b",
+          "kind": "finished",
+          "label": "成品号 10亿",
+          "price_cny": 8.8,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-310b",
+          "kind": "finished",
+          "label": "成品号 300–310亿",
+          "price_cny": 28.8,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "chejiu",
+      "name": "CheJiu",
+      "url": "https://chejiu.vip/",
+      "tiers": [
+        {
+          "id": "token-10b",
+          "kind": "token_topup",
+          "label": "Muse 邀请助力 10亿",
+          "price_cny": 1.0,
+          "price_per_10b_cny": 1.0,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-10b",
+          "kind": "handmade",
+          "label": "精品手搓号 10亿",
+          "price_cny": 18.88,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "handmade-310b",
+          "kind": "handmade",
+          "label": "精品手搓号 310亿",
+          "price_cny": 38.88,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "kgcdk",
+      "name": "KGCDK",
+      "url": "https://kgcdk.com/products/Muse-2",
+      "tiers": [
+        {
+          "id": "handmade-10b",
+          "kind": "handmade",
+          "label": "质量手搓号 10亿",
+          "price_cny": 11.99,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "milo",
+      "name": "milo shop",
+      "url": "https://shop.malong.site/categories/Muse",
+      "tiers": [
+        {
+          "id": "finished-10b",
+          "kind": "finished",
+          "label": "成品号 10亿",
+          "price_cny": 10.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-310b",
+          "kind": "finished",
+          "label": "成品号 310亿",
+          "price_cny": 15.0,
+          "price_per_10b_cny": null,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "out_of_stock"
+        }
+      ]
+    },
+    {
+      "id": "adu-s394358",
+      "name": "【胖东来】阿度AI超市",
+      "url": "https://www.16688.com.cn/shop/S394358",
+      "tiers": [
+        {
+          "id": "invite-manual",
+          "kind": "other_ai",
+          "label": "人工手搓邀请 /次",
+          "price_cny": 4.1,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "invite-basic",
+          "kind": "other_ai",
+          "label": "普通代邀请 /次",
+          "price_cny": 1.0,
+          "price_per_10b_cny": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-13",
+          "note": "2026-11-25 店内搜 0 结果，未见",
+          "status": "unverified"
+        },
+        {
+          "id": "finished-10b-jp",
+          "kind": "finished",
+          "label": "日本实卡手搓成品号 10亿",
+          "price_cny": 18.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-us",
+          "kind": "finished",
+          "label": "美国卡手搓成品号 10亿",
+          "price_cny": 19.0,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-24h",
+          "kind": "finished",
+          "label": "24小时质保成品号 10亿",
+          "price_cny": 5.9,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-10b-virtual",
+          "kind": "finished",
+          "label": "手搓虚拟卡支付成品号 10亿",
+          "price_cny": 9.9,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        },
+        {
+          "id": "finished-310b-jp",
+          "kind": "finished",
+          "label": "日本实卡全程质保成品号 310亿",
+          "price_cny": 110.0,
+          "price_per_10b_cny": null,
+          "stock": "low_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "hongyu888",
+      "name": "hongyu888",
+      "url": "https://hongyu888.vip/item/442",
+      "tiers": [
+        {
+          "id": "token-10b",
+          "kind": "token_topup",
+          "label": "词元充值 10亿",
+          "price_cny": null,
+          "price_per_10b_cny": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-17",
+          "note": "该店不卖词元充值",
+          "status": "not_sold"
+        },
+        {
+          "id": "finished-20b",
+          "kind": "finished",
+          "label": "成品号 20亿",
+          "price_cny": 9.8,
+          "price_per_10b_cny": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-25",
+          "previous_checked_at": "2026-11-25",
+          "note": "仅质保发货后 1 小时；10亿/310亿已不在售",
+          "status": "verified"
+        }
+      ]
+    }
+  ]
+}
